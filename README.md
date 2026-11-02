@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Backend Engineering · Artificial Intelligence · Systems Design
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1200&color=39D5FF&center=true&vCenter=true&width=900&height=60&lines=BACKEND+ENGINEERING;ARTIFICIAL+INTELLIGENCE;SYSTEMS+DESIGN;BUILDING+RELIABLE+SOFTWARE" alt="Backend Engineering · Artificial Intelligence · Systems Design" />
 </p>
 
 ## About me
@@ -70,6 +70,10 @@ LinkedIn  linkedin.com/in/pedro-torcivia-4160a6276
 GitHub    github.com/pedr0torcivia
 Email     torcivia.p3dro@gmail.com
 ```
+
+<p align="center">
+  <img src="./assets/pixel-footer.svg" width="100%" alt="Build, learn, iterate" />
+</p>
 
 <p align="center"><sub>Focused on building clear, reliable and maintainable software.</sub></p>
 
