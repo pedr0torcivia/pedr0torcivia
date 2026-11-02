@@ -47,48 +47,14 @@ I enjoy turning complex requirements into reliable software: from domain modelli
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
 </p>
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚽ World Cup 2026 Simulator</h3>
-      <p>Configurable Monte Carlo simulator with Poisson models, group and knockout stages, uncertainty intervals, sensitivity analysis and an interactive dashboard.</p>
-      <p><code>Python</code> <code>Monte Carlo</code> <code>Data modelling</code></p>
-      <a href="https://github.com/pedr0torcivia/World-Cup-2026-Simulation">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Interlibrary Loan System</h3>
-      <p>Full-stack library network with protected sessions, local and interlibrary loans, reservations, audit reports and reproducible Docker deployment.</p>
-      <p><code>Django REST</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code></p>
-      <a href="https://github.com/pedr0torcivia/tp-dao-G85">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 Logistics Microservices</h3>
-      <p>Container logistics platform designed around microservices, API Gateway, JWT authentication, service discovery and documented domain boundaries.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>Keycloak</code> <code>Docker</code></p>
-      <a href="https://github.com/pedr0torcivia/TPI-G13-Backend-de-Aplicaciones-2025">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📷 LensTranslate</h3>
-      <p>Browser-based camera translator that performs local OCR, detects the source language and translates extracted text through a clean mobile flow.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Tesseract.js</code> <code>OCR</code></p>
-      <a href="https://github.com/pedr0torcivia/Translator">View repository →</a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedr0torcivia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=a371f7&ring_color=00d9ff" alt="Pedro's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=pedr0torcivia&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" alt="Pedro's GitHub streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedr0torcivia&theme=github_dark" alt="Pedro's GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedr0torcivia&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=a371f7&area=true&area_color=0e7490&hide_border=true&custom_title=Contribution%20Map" alt="Pedro's contribution activity graph" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=pedr0torcivia&theme=transparent&hide_border=true&ring=00A3AD&fire=00A3AD&currStreakLabel=00A3AD&sideLabels=0A66C2&v=20261102" alt="Pedro's GitHub contribution streak" />
 </p>
 
 ## Credentials
