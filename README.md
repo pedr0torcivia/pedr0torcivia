@@ -54,7 +54,7 @@ I enjoy turning complex requirements into reliable software: from domain modelli
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=pedr0torcivia&theme=transparent&hide_border=true&ring=00A3AD&fire=00A3AD&currStreakLabel=00A3AD&sideLabels=0A66C2&v=20261102" alt="Pedro's GitHub contribution streak" />
+  <img width="82%" src="./assets/activity-card.svg" alt="Pedro's GitHub contribution streak" />
 </p>
 
 ## Credentials
