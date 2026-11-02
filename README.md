@@ -17,7 +17,7 @@
 ```text
 NAME       Pedro Torcivia
 LOCATION   Córdoba, Argentina
-ROLE       Backend AI Engineering Intern @ FlyRank AI
+ROLE       Systems Engineering Student · Backend & AI focus
 STUDYING   Information Systems Engineering · UTN FRC · 4th year
 FOCUS      Backend services · AI-assisted products · simulation · full-stack systems
 LANGUAGES  Spanish (native) · English (C1 Cambridge)
@@ -27,7 +27,7 @@ I enjoy turning complex requirements into reliable software: from domain modelli
 
 ## Current focus
 
-- Building production experience at **FlyRank AI** as a Backend AI Engineering Intern.
+- Building backend, AI and automation projects with production-oriented practices.
 - Studying **Information Systems Engineering** at Universidad Tecnológica Nacional — Facultad Regional Córdoba.
 - Deepening my work with **Python, Java, TypeScript, React, APIs, Docker and relational databases**.
 - Exploring how AI can improve software delivery without losing clarity, testing or maintainability.
